@@ -1,0 +1,34 @@
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\bin\Release\WDSendTextMsg.exe
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\bin\Release\WDSendTextMsg.pdb
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\bin\Release\WDSendTextMsg.xml
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\obj\Release\ConsoleApplication1.Resources.resources
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\obj\Release\WDSendTextMsg.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\obj\Release\WDSendTextMsg.exe
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\obj\Release\WDSendTextMsg.xml
+C:\Documents and Settings\Greg\Desktop\WDSendTextMsg\obj\Release\WDSendTextMsg.pdb
+C:\SourceCode\WDSendTextMsg\obj\Release\WDSendTextMsg.exe
+C:\SourceCode\WDSendTextMsg\obj\Release\WDSendTextMsg.xml
+C:\SourceCode\WDSendTextMsg\obj\Release\WDSendTextMsg.pdb
+C:\SourceCode\WDSendTextMsg\bin\Release\WDSendTextMsg.exe
+C:\SourceCode\WDSendTextMsg\bin\Release\WDSendTextMsg.pdb
+C:\SourceCode\WDSendTextMsg\bin\Release\WDSendTextMsg.xml
+C:\SourceCode\WDSendTextMsg\obj\Release\ResolveAssemblyReference.cache
+C:\SourceCode\WDSendTextMsg\obj\Release\ConsoleApplication1.Resources.resources
+C:\SourceCode\WDSendTextMsg\obj\Release\WDSendTextMsg.vbproj.GenerateResource.Cache
+\\falcon\users\Greg\Watchdog\WDSendTextMsg\obj\Release\WDSendTextMsg.exe
+\\falcon\users\Greg\Watchdog\WDSendTextMsg\obj\Release\WDSendTextMsg.xml
+\\falcon\users\Greg\Watchdog\WDSendTextMsg\obj\Release\WDSendTextMsg.pdb
+C:\Users\Greg\Documents\WDSendTextMsg2\obj\Release\WDSendTextMsg.exe
+C:\Users\Greg\Documents\WDSendTextMsg2\obj\Release\WDSendTextMsg.xml
+C:\Users\Greg\Documents\WDSendTextMsg2\obj\Release\WDSendTextMsg.pdb
+C:\Users\Greg\Documents\WDSendTextMsg2\bin\Release\WDSendTextMsg.exe
+C:\Users\Greg\Documents\WDSendTextMsg2\bin\Release\WDSendTextMsg.pdb
+C:\Users\Greg\Documents\WDSendTextMsg2\bin\Release\WDSendTextMsg.xml
+C:\Users\Greg\Documents\WDSendTextMsg2\obj\Release\ConsoleApplication1.Resources.resources
+C:\Users\Greg\Documents\WDSendTextMsg2\obj\Release\WDSendTextMsg.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\WDSendTextMsg2\bin\Release\WDSendTextMsg.exe.config
+C:\Users\Greg\Documents\Watchdog\WDSendTextMsg2\bin\Release\WDSendTextMsg.exe.config
+C:\Users\Greg\Documents\Watchdog\WDSendTextMsg2\obj\Release\WDSendTextMsg.exe
+C:\Users\Greg\Documents\Watchdog\WDSendTextMsg2\obj\Release\WDSendTextMsg.xml
+C:\Users\Greg\Documents\Watchdog\WDSendTextMsg2\obj\Release\WDSendTextMsg.pdb
